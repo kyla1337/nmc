@@ -735,7 +735,7 @@ body:has(.offcanvas){
 	bottom: 0;
 	left: auto;
 	right: -15px;
-	background: var(--primary-color) !important;
+	background: #f5e1fd !important;
 	border-radius: 0;
 	opacity: 100%;
 	width: 100% !important;
