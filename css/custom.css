@@ -1012,7 +1012,7 @@ body:has(.offcanvas){
 
 .hero{
 	position: relative;
-	background: url('../images/hero-bg3.jpg') no-repeat;
+	background: url('../images/hero-bg3.png') no-repeat;
 	background-position: center center;
 	background-size: auto;
 	padding: 210px 0;
