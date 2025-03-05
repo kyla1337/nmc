@@ -2175,7 +2175,7 @@ body:has(.offcanvas){
 .our-testimonials{
 	position: relative;
 	padding: 100px 0;
-	background: url('../images/hero-bg3.png') no-repeat;
+	background: url('../images/test.jpg') no-repeat;
 	background-position: center center;
 	background-size: cover;
 }
